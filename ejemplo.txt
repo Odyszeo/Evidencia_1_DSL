@@ -1,0 +1,9 @@
+color red
+adelante 100
+derecha 90
+adelante 100
+derecha 90
+adelante 100
+derecha 90
+adelante 100
+derecha 90

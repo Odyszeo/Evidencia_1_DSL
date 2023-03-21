@@ -1,0 +1,3 @@
+repetir 4 {
+adelante 100 
+derecha 90 }

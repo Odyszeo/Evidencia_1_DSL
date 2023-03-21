@@ -1,0 +1,4 @@
+adelante 100 
+derecha 90 
+atras 100 
+centro
